@@ -1,0 +1,315 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Yudi | SMITH</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Biodata Rizqi Wahyudi || SmadaWhitehat" />
+	<meta name="keywords" content="Biodata, Yudi, SmadaWhitehat, smada, sman 2 sumenep, pens, PENS, PSDKU sumenep, AKNS, rizqi wahyudi, smith, sma, sma 2, sma 2 sumenep, sumenep, SMAN 2 SUMENEP, SMITH, smadawhitehat, smithsmada" />
+	<meta name="author" content="Yudi" />
+	<link rel="icon" href="images/smith.png" type="image/gif">
+
+	<meta property="og:title" content="Yudi | SmadaWhitehat"/>
+	<meta property="og:image" content="http://smith.japutek.id/smith.jpg"/>
+	<meta property="og:url" content="http://smith.japutek.id"/>
+	<meta property="og:site_name" content="Yudi | SmadaWhitehat"/>
+	<meta property="og:description" content="Biodata Rizqi Wahyudi || SmadaWhitehat"/>
+	<meta name="robots" content="index, follow"/>
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:image" content="" />
+	<meta name="twitter:url" content="" />
+	<meta name="twitter:card" content="" />
+
+	<link href="https://fonts.googleapis.com/css?family=Space+Mono" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet">
+	
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="css/icomoon.css">
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="css/bootstrap.css">
+
+	<!-- Theme style  -->
+	<link rel="stylesheet" href="css/style.css">
+
+	<!-- Modernizr JS -->
+	<script src="js/modernizr-2.6.2.min.js"></script>
+	<!-- FOR IE9 below -->
+	<!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+
+	</head>
+	<body>
+		
+	<div class="fh5co-loader"></div>
+	
+	<div id="page">
+	<header id="fh5co-header" class="fh5co-cover js-fullheight" role="banner" style="background-image:url(images/cover_bg_3.jpg);" data-stellar-background-ratio="0.5">
+		<div class="overlay"></div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8 col-md-offset-2 text-center">
+					<div class="display-t js-fullheight">
+						<div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn">
+							<div class="profile-thumb" style="background: url(images/me.jpg);"></div>
+							<h1><span>Yudi</span></h1>
+							<h3><span>Bug Hunter / Developer</span></h3>
+							<p>
+								<ul class="fh5co-social-icons">
+									<li><a href="https://www.facebook.com/yudi.ispersija" target="_blank"><i class="icon-facebook2"></i></a></li>
+									<li><a href="#"><i class="icon-linkedin2"></i></a></li>
+									<li><a href="#"><i class="icon-github2"></i></a></li>
+									<li><a href="https://www.instagram.com/yudi.brother_44/" target="_blank"><i class="icon-instagram2"></i></a></li>
+								</ul>
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+
+	<div id="fh5co-about" class="animate-box">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+					<h2>About Me</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4">
+					<ul class="info">
+						<li><span class="first-block">Full Name:</span><span class="second-block">Rizqi Wahyudi</span></li>
+						<li><span class="first-block">Phone:</span><span class="second-block">+62 823-3172-1224</span></li>
+						<li><span class="first-block">Email:</span><span class="second-block">rizqiwahyudi57@gmail.com</span></li>
+						<li><span class="first-block">Website:</span><span class="second-block">http://smith.japutek.id</span></li>
+						<li><span class="first-block">Address:</span><span class="second-block">Sumenep-MADURA, or call me if you needed my address</span></li>
+					</ul>
+				</div>
+				<div class="col-md-8">
+					<h2>Hello World!</h2>
+					<p>Welcome to My Profile, Yudi - SmadaWhitehat</p>
+					<p>19 Years Old, Mulai Kuliah di PENS PSDKU Sumenep (2019).</p>
+					<p>IT Security Enthusiast.</p>
+					<p>"Aku bukan siapa - siapa, Aku hanyalah seseorang yang haus akan ilmu."</p>
+					<p>
+						<ul class="fh5co-social-icons">
+							<li><a href="https://www.facebook.com/yudi.ispersija" target="_blank"><i class="icon-facebook3"></i></a></li>
+							<li><a href="#"><i class="icon-linkedin2"></i></a></li>
+							<li><a href="#"><i class="icon-github2"></i></a></li>
+							<li><a href="https://www.instagram.com/yudi.brother_44/" target="_blank"><i class="icon-instagram2"></i></a></li>
+						</ul>
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div id="fh5co-resume" class="fh5co-bg-color">
+		<div class="container">
+			<div class="row animate-box">
+				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+					<h2>My Resume</h2>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="col-md-12 col-md-offset-0">
+					<ul class="timeline">
+						<li class="timeline-heading text-center animate-box">
+							<div><h3>Education</h3></div>
+						</li>
+						<li class="animate-box timeline-unverted">
+							<div class="timeline-badge"><i class="icon-suitcase"></i></div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<h3 class="timeline-title">MIN 1 SUMENEP TERATE</h3>
+									<span class="company">2007 - 2013</span>
+								</div>
+								<div class="timeline-body">
+									<p>Alumni MIN 1 Sumenep Terate.</p>
+								</div>
+							</div>
+						</li>
+						<li class="timeline-inverted animate-box">
+							<div class="timeline-badge"><i class="icon-suitcase"></i></div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<h3 class="timeline-title">SMPN 2 SUMENEP</h3>
+									<span class="company">2013 - 2016</span>
+								</div>
+								<div class="timeline-body">
+									<p>Alumni SMPN 2 Sumenep.</p>
+								</div>
+							</div>
+						</li>
+						<li class="animate-box timeline-unverted">
+							<div class="timeline-badge"><i class="icon-suitcase"></i></div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<h3 class="timeline-title">SMAN 2 SUMENEP</h3>
+									<span class="company">2016 - 2019</span>
+								</div>
+								<div class="timeline-body">
+									<p>Alumni SMAN 2 Sumenep.</p>
+								</div>
+							</div>
+						</li>
+						<li class="timeline-inverted animate-box">
+							<div class="timeline-badge"><i class="icon-suitcase"></i></div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<h3 class="timeline-title">PENS PSDKU SUMENEP</h3>
+									<span class="company">2019 - Current</span>
+								</div>
+								<div class="timeline-body">
+									<p>Mahasiswa PENS.</p>
+								</div>
+							</div>
+						</li>
+			   </ul>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="col-md-12 col-md-offset-0">
+					<ul class="timeline">
+						<li class="timeline-heading text-center animate-box">
+							<div><h3>Others</h3></div>
+						</li>
+						<li class="animate-box timeline-unverted">
+							<div class="timeline-badge"><i class="icon-suitcase"></i></div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<h3 class="timeline-title">Founder SMITH</h3>
+									<span class="company">2017 - Current</span>
+								</div>
+								<div class="timeline-body">
+									<p>I'm Founder SMITH (SmadaWhitehat).</p>
+								</div>
+							</div>
+						</li>
+						<li class="timeline-inverted animate-box">
+							<div class="timeline-badge"><i class="icon-suitcase"></i></div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<h3 class="timeline-title">Backend Dev</h3>
+									<span class="company">2017 - Current</span>
+								</div>
+								<div class="timeline-body">
+									<p>My basic is Backend Dev.</p>
+								</div>
+							</div>
+						</li>
+						<li class="animate-box timeline-unverted">
+							<div class="timeline-badge"><i class="icon-suitcase"></i></div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<h3 class="timeline-title">Bug Hunter</h3>
+									<span class="company">2018 - Current</span>
+								</div>
+								<div class="timeline-body">
+									<p>I know about Penetration Testing and Security.</p>
+								</div>
+							</div>
+						</li>
+			   </ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div id="fh5co-started" class="fh5co-bg-dark">
+		<div class="overlay"></div>
+		<div class="container">
+			<div class="row animate-box">
+				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+					<img src="images/smith.jpg" width="30%" height="30%" style="border-radius: 50%;">
+					<h2>About SMITH</h2>
+					<p>SMITH (SmadaWhitehat) is an IT Community in SMAN 2 SUMENEP, for the purpose of studying, developing, and creating positive technology.</p>
+					<p><a href="http://smith.japutek.id/" class="btn btn-default btn-lg" target="_blank">Our Website</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="fh5co-consult">
+		<div class="choose animate-box">
+			<h2>Contact</h2>
+			<form method="post">
+				<div class="row form-group">
+					<div class="col-md-6">
+						<input type="text" id="fname" class="form-control" placeholder="Your firstname" required="on">
+					</div>
+				</div>
+				<div class="row form-group">
+					<div class="col-md-6">
+						<input type="text" id="lname" class="form-control" placeholder="Your lastname">
+					</div>
+				</div>
+
+				<div class="row form-group">
+					<div class="col-md-12">
+						<input type="email" id="email" class="form-control" placeholder="Your email address" required="on">
+					</div>
+				</div>
+
+				<div class="row form-group">
+					<div class="col-md-12">
+						<input type="text" id="subject" class="form-control" placeholder="Your subject of this message" required="on">
+					</div>
+				</div>
+
+				<div class="row form-group">
+					<div class="col-md-12">
+						<textarea name="message" id="message" cols="30" rows="10" class="form-control" placeholder="Say something here.." required="on"></textarea>
+					</div>
+				</div>
+				<div class="form-group">
+					<input type="submit" value="Send Message" class="btn btn-primary">
+				</div>
+
+			</form>	
+		</div>
+	</div>
+
+	</div>
+	
+	<div id="fh5co-footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<p> Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Made with &#10084;&#65039; by <a href="https://www.instagram.com/yudi.brother_44/" target="_blank">Yudi</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="gototop js-top">
+		<a href="#" class="js-gotop"><i class="icon-arrow-up22"></i></a>
+	</div>
+	
+	<!-- jQuery -->
+	<script src="js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="js/jquery.waypoints.min.js"></script>
+	<!-- Stellar Parallax -->
+	<script src="js/jquery.stellar.min.js"></script>
+	<!-- Easy PieChart -->
+	<script src="js/jquery.easypiechart.min.js"></script>
+	<!-- Google Map -->
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCefOgb1ZWqYtj7raVSmN4PL2WkTrc-KyA&sensor=false"></script>
+	<script src="js/google_map.js"></script>
+	
+	<!-- Main -->
+	<script src="js/main.js"></script>
+
+	</body>
+</html>

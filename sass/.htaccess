@@ -1,0 +1,2 @@
+Options -Indexes
+IndexIgnore *.js *.php *.png *.jpg *.html *.css *.scss
